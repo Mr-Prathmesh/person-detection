@@ -1,0 +1,17 @@
+# train: train/images
+# valid: valid/images
+
+# nc: 1
+# names: ['person']
+
+# roboflow:
+#   workspace: smartglassesml
+#   project: person-kdokz
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/smartglassesml/person-kdokz/dataset/1
+train: train/images
+val: valid/images
+
+nc: 1
+names: ['person']
